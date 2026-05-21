@@ -1,1 +1,1 @@
-FROM n8nio/n8n:2.21.6-exp.0
+FROM n8nio/n8n:latest
